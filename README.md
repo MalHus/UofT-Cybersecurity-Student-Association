@@ -11,5 +11,7 @@ Find resources to all **content** covered in workshops conducted by the CSSA ove
 
 [Add small description]
 
-## Connect with Us!
-https://cssa.sa.utoronto.ca/
+## Workshop 2 - TBD
+
+[Add small description]
+
