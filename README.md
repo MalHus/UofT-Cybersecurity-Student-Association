@@ -14,7 +14,7 @@ Slides:
 
 Code:
 
-## Workshop 2 - TBD
+## Workshop 2 
 
 Coming soon!
 
