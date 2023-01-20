@@ -16,5 +16,5 @@ Code:
 
 ## Workshop 2 - TBD
 
-[Add small description]
+Coming soon!
 
