@@ -8,7 +8,7 @@
 Find resources to all **content** covered in workshops conducted by the CSSA over the **2022-2023** academic year below! From **slides to code**, find all the information we covered in our workshops below so that you can continue on your journey of exploring the **bits and bytes of cybersecurity**!
 
 ## Workshop 1 - Keyloggers: What, How & More! (Python)
-Introduction to the concept of **Keylogging**, the process of **coding** a keylogger and an **exploration** of the different ways to extend the written code to incporate a wide range of **functionalies** (for educational purposes only). Make sure to check out the resources provided in the slides that guide you as you continue to explore into keyloggers!
+Introduction to the concept of **Keylogging**, the process of **coding** a keylogger and an **exploration** of the different ways to extend the written code to incorporate a wide range of **functionalies** (for educational purposes only). Make sure to check out the resources provided in the slides that guide you as you continue to explore into keyloggers!
 
 Slideshow link: https://docs.google.com/presentation/d/1K9Tgq2SEupXXydm9DxLvopUthRaYhhaA6USv4VJbz1M/edit?usp=sharing
 
